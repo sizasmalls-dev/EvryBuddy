@@ -1,0 +1,66 @@
+body {
+background: no-repeat url(https://tvlleaders.com/wp-content/uploads/2019/10/Group-Mountain-1-1030x686.jpg);
+width: 100vw;
+background-size: cover;
+margin: auto;
+}
+
+h1 {
+    font-family: Pacifico;
+    color: rgb(83, 75, 75);
+    font-size: 30px;
+    margin: 30px;
+
+}
+
+h2 {
+    color: rgb(83, 75, 75);
+    font-family: cursive;
+    font-weight: bold;
+    padding-top: 25px;
+    
+}
+
+.form-inline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 200px;
+    padding-top: 100px;
+
+    
+}
+.nav-link {
+    color: rgb(83, 75, 75);
+    margin: 0px 20px;
+    text-decoration: none;
+}
+
+.nav > ul > li {
+list-style: none;
+
+}
+.nav ul{
+display:flex;
+
+
+}
+
+.search {
+    width: 40%;
+    
+   
+}
+
+
+.text-heading {
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+#icon {
+    display: flex;
+    
+}
